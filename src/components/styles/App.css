@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #07b5c2;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+img {
+  margin-top: 14%;
+  height: 150px;
+  border: 5px;
+  border-radius: 50%!important;
+
+}
+
+.imagen{
+  border-color: white;
+  border-style: solid;
+}
+
+.App-profile{
+color: black;
+text-align: left;
+font-size: calc(5px + 2vmin);
+opacity:inherit;
+}
+
+.App-titles{
+  color: black;
+  text-align: left;
+  font-size: calc(14px + 2vmin);
+  }
+
+  .App-subtitles{
+    color: black;
+    text-align: left;
+    font-size: calc(10px + 2vmin);
+    }
+
+.Card{
+ -webkit-box-align: center;
+}

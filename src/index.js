@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import 'bootstrap/dist/css/bootstrap.css';
+import App from './components/App';
 import reportWebVitals from './reportWebVitals';
+
+//const container = document.getElementById('app');
 
 ReactDOM.render(
   <React.StrictMode>
