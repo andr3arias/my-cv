@@ -18,22 +18,35 @@ function Contacts() {
                   Tienes alguna pregunta?<br></br>Siéntete libre de escribirme!
                 </p>
                 <div class="home__contacts-info">
-                  <p class="home__contacts-geo">Colombia</p>
                   <p class="home__contacts-mail">
-                    <a href="mailto:santiyabwana@gmail.com" target="_top">
+                    <i class="bi bi-envelope-fill"> </i>
+                    <a href="mailto:santiyabwana@gmail.com">
                       santiyabwana@gmail.com
                     </a>
                   </p>
                   <p class="home__contacts-linkedin">
-                    <a href="https://www.linkedin.com/andr3arias">andr3arias</a>
+                    <i class="bi bi-linkedin"> </i>
+                    <a href="https://www.linkedin.com/andr3arias">
+                      https://www.linkedin.com/andr3arias
+                    </a>
                   </p>
                   <p class="home__contacts-twitter">
-                    <a href="https://www.twitter.com/andr3arias">@andr3arias</a>
+                    <i class="bi bi-twitter"> </i>
+                    <a href="https://www.twitter.com/andr3arias">
+                      https://www.twitter.com/andr3arias
+                    </a>
                   </p>
                   <p class="home__contacts-github">
-                    <a href="https://www.github.com/andr3arias">andr3arias</a>
+                    <i class="bi bi-github"> </i>
+                    <a href="https://www.github.com/andr3arias">
+                      https://www.github.com/andr3arias
+                    </a>
+                  </p>
+                  <p class="home__contacts-geo">
+                    <i class="bi bi-geo-alt-fill"> </i>Colombia
                   </p>
                 </div>
+                <br></br>
               </div>
               <div class="col col--md-6">
                 <form class="form" id="contact-form">

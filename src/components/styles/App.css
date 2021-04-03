@@ -2,7 +2,13 @@
   text-align: center;
 }
 
+.App-FirtsTitle{
+  font-size: calc(32px + 2vmin);
+}
 
+.App-SecondTitle{
+  font-size: calc(14px + 2vmin);
+}
 .App-header {
   background-color: #07b5c2;
   min-height: 100vh;
